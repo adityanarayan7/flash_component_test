@@ -1,0 +1,6 @@
+a0 - pwm
+pin14 - ina1
+pin15 - ina2
+
+pin18 - enca
+pin19 - encb
